@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyNIO/MyNIO.iml" filepath="$PROJECT_DIR$/MyNIO/MyNIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NIO_Demo01.iml" filepath="$PROJECT_DIR$/.idea/NIO_Demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu_nio/atguigu_nio.iml" filepath="$PROJECT_DIR$/atguigu_nio/atguigu_nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atguigu_nio_chat/atguigu_nio_chat.iml" filepath="$PROJECT_DIR$/atguigu_nio_chat/atguigu_nio_chat.iml" />
+    </modules>
+  </component>
+</project>
